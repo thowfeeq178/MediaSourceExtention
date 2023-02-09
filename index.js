@@ -9,6 +9,7 @@ var templateUrl =
   baseUrl + "bbb_30fps_480x270_600k/bbb_30fps_480x270_600k_$Number$.m4v";
 var templateUrlForAudio = baseUrl + "bbb_a64k/bbb_a64k_$Number$.m4a";
 var sourceBuffer;
+var audioSourceBuffer;
 var index = 0;
 var audioIndex = 0;
 var numberOfChunks = 159;
