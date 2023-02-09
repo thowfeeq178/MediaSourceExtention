@@ -1,4 +1,5 @@
 // BBB : https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+// ref: https://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html
 
 var baseUrl = "https://dash.akamaized.net/akamai/bbb_30fps/";
 var initUrl = baseUrl + "bbb_30fps_480x270_600k/bbb_30fps_480x270_600k_0.m4v";
