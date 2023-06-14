@@ -1,5 +1,5 @@
 # MediaSourceExtention
-A sample MSE Player
+A sample MSE Player - JAVASCRIPT
 
 
 Media Source API
