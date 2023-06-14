@@ -3,7 +3,7 @@ A sample MSE Player - JAVASCRIPT
 
 
 Media Source API
-The Media Source API, formally known as Media Source Extensions (MSE), provides functionality enabling plugin-free web-based streaming media. Using MSE, media streams can be created via JavaScript, and played using <audio> and <video> elements.
+The Media Source API,formally known as Media Source Extensions (MSE), provides functionality enabling plugin-free web-based streaming media. Using MSE, media streams can be created via JavaScript, and played using <audio> and <video> elements.
 
 ref: https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API
 
